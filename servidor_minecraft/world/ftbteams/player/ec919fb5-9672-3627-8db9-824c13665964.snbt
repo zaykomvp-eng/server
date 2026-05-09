@@ -1,0 +1,15 @@
+{
+	id: "ec919fb5-9672-3627-8db9-824c13665964"
+	type: "player"
+	player_name: "ElUnicoSanti"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ElUnicoSanti"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5C59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

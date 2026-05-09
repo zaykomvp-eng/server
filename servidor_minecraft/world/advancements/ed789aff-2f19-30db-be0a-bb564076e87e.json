@@ -1,0 +1,2621 @@
+{
+  "tokimistoolshed:recipes/smelting/obsidian_scythe_smelting": {
+    "criteria": {
+      "has_obsidian_scythe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/yellow_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/golden_hammer_smelting": {
+    "criteria": {
+      "has_golden_hammer": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/deepslate_brick_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/netherite_hammer_smelting": {
+    "criteria": {
+      "has_netherite_hammer": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/golden_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-08 20:53:02 +0000",
+      "has_stick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/netherite_excavator": {
+    "criteria": {
+      "has_netherite": "2026-05-08 20:53:02 +0000",
+      "has_diamond_excavator": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/copper_scythe_smelting": {
+    "criteria": {
+      "has_copper_scythe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/deepslate_tile_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/golden_scythe": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000",
+      "has_gold": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/blue_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_diamond_block": {
+    "criteria": {
+      "has_ingredients": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/iron_excavator": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000",
+      "has_iron": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/golden_scythe_smelting": {
+    "criteria": {
+      "has_golden_scythe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/cobbled_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-05-08 20:53:02 +0000",
+      "wild_strawberry": "2026-05-08 20:53:02 +0000",
+      "corn": "2026-05-08 20:53:02 +0000",
+      "onion": "2026-05-08 20:53:02 +0000",
+      "wild_corn": "2026-05-08 20:53:02 +0000",
+      "wild_ribwort": "2026-05-08 20:53:02 +0000",
+      "strawberry": "2026-05-08 20:53:02 +0000",
+      "wild_nettle": "2026-05-08 20:53:02 +0000",
+      "barley": "2026-05-08 20:53:02 +0000",
+      "tomato": "2026-05-08 20:53:02 +0000",
+      "lettuce": "2026-05-08 20:53:02 +0000",
+      "wild_lettuce": "2026-05-08 20:53:02 +0000",
+      "wild_tomatoes": "2026-05-08 20:53:02 +0000",
+      "oat_seeds": "2026-05-08 20:53:02 +0000",
+      "tomato_seeds": "2026-05-08 20:53:02 +0000",
+      "barley_seeds": "2026-05-08 20:53:02 +0000",
+      "strawberry_seeds": "2026-05-08 20:53:02 +0000",
+      "lettuce_seeds": "2026-05-08 20:53:02 +0000",
+      "kernels": "2026-05-08 20:53:02 +0000",
+      "wild_barley": "2026-05-08 20:53:02 +0000",
+      "wild_onion": "2026-05-08 20:53:02 +0000",
+      "wild_oat": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/netherite_scythe_smelting": {
+    "criteria": {
+      "has_netherite_scythe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/diamond_excavator_smelting": {
+    "criteria": {
+      "has_diamond_excavator": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/copper_hammer_smelting": {
+    "criteria": {
+      "has_copper_hammer": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/trowel": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/green_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/iron_hammer_smelting": {
+    "criteria": {
+      "has_iron_hammer": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/stone_excavator": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/chiseled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/copper_bucket_smelting": {
+    "criteria": {
+      "has_copper_bucket": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/copper_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/diamond_lumber_axe": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000",
+      "has_diamond": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_netherite": "2026-05-08 20:53:02 +0000",
+      "has_diamond_hammer": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/obsidian_hammer_smelting": {
+    "criteria": {
+      "has_obsidian_hammer": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/obsidian_storage_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_emerald_block": {
+    "criteria": {
+      "has_ingredients": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/light_blue_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:first_join": {
+    "criteria": {
+      "s": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/cobbled_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_gold_block": {
+    "criteria": {
+      "has_ingredients": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/obsidian_excavator": {
+    "criteria": {
+      "has_obsidian_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/obsidian_lumber_axe": {
+    "criteria": {
+      "has_obsidian_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/copper_excavator": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000",
+      "has_iron": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/abacus": {
+    "criteria": {
+      "has_gold_nugget": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000",
+      "has_diamond": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/shroud_key": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/portability_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/clippers": {
+    "criteria": {
+      "has_iron_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_key": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/abacus_smelting": {
+    "criteria": {
+      "has_abacus": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/polished_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/keyring": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/pink_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/light_gray_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/wooden_hammer": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/wooden_scythe": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/netherite_lumber_axe_smelting": {
+    "criteria": {
+      "has_netherite_lumber_axe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/stone_scythe": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/deepslate_tile_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/polished_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/deepslate_tile_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/netherite_excavator_smelting": {
+    "criteria": {
+      "has_netherite_excavator": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/iron_scythe_smelting": {
+    "criteria": {
+      "has_iron_scythe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/netherite_scythe": {
+    "criteria": {
+      "has_netherite": "2026-05-08 20:53:02 +0000",
+      "has_diamond_scythe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/deepslate_tiles_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/copper_excavator_smelting": {
+    "criteria": {
+      "has_copper_excavator": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/cobbled_deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/deepslate_brick_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/trowel_smelting": {
+    "criteria": {
+      "has_trowel": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/gray_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/polished_deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "things:root": {
+    "criteria": {
+      "tick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/golden_lumber_axe": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000",
+      "has_gold": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/copper_bucket": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/deepslate_bricks_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/magenta_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/stone_lumber_axe": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/netherite_lumber_axe": {
+    "criteria": {
+      "has_diamond_lumber_axe": "2026-05-08 20:53:02 +0000",
+      "has_netherite": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/black_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/priority_key": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:cozystudioscore/root": {
+    "criteria": {
+      "tick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/red_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:clutter/root": {
+    "criteria": {
+      "requirement": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/diamond_excavator": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000",
+      "has_diamond": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/obsidian_lumber_axe_smelting": {
+    "criteria": {
+      "has_obsidian_lumber_axe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/diamond_hammer_smelting": {
+    "criteria": {
+      "has_diamond_hammer": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/deepslate_brick_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/void_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/orange_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/iron_scythe": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000",
+      "has_iron": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/clippers_smelting": {
+    "criteria": {
+      "has_clippers": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/iron_lumber_axe": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000",
+      "has_iron": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_iron_block": {
+    "criteria": {
+      "has_ingredients": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_ingots": {
+    "criteria": {
+      "has_ingredients": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/wooden_lumber_axe": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2026-05-08 20:53:02 +0000",
+      "inv_changed-diamond": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/purple_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/decorations/tranquil_lantern": {
+    "criteria": {
+      "has_golden_leaf": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/cobbled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/copper_lumber_axe": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/brown_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/cyan_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_puller": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/diamond_scythe": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000",
+      "has_diamond": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/golden_excavator": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-08 20:53:02 +0000",
+      "has_stick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/obsidian_excavator_smelting": {
+    "criteria": {
+      "has_obsidian_excavator": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/iron_excavator_smelting": {
+    "criteria": {
+      "has_iron_excavator": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/obsidian_hammer": {
+    "criteria": {
+      "has_obsidian_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/wooden_excavator": {
+    "criteria": {
+      "has_stick": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/tools/obsidian_scythe": {
+    "criteria": {
+      "has_obsidian_ingot": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/diamond_scythe_smelting": {
+    "criteria": {
+      "has_diamond_scythe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/copper_lumber_axe_smelting": {
+    "criteria": {
+      "has_copper_lumber_axe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/iron_lumber_axe_smelting": {
+    "criteria": {
+      "has_iron_lumber_axe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/golden_lumber_axe_smelting": {
+    "criteria": {
+      "has_golden_lumber_axe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/golden_excavator_smelting": {
+    "criteria": {
+      "has_golden_excavator": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/lime_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
+    "criteria": {
+      "has_template": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "tokimistoolshed:recipes/smelting/diamond_lumber_axe_smelting": {
+    "criteria": {
+      "has_diamond_lumber_axe": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/deepslate_stonecutting/polished_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/white_concrete_powder": {
+    "criteria": {
+      "has_concrete": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2026-05-08 20:53:02 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2026-05-08 20:53:03 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-05-08 20:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2026-05-08 20:53:03 +0000"
+    },
+    "done": false
+  },
+  "beachparty:main/welcome_to_the_beach": {
+    "criteria": {
+      "enter_beach": "2026-05-08 20:53:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-08 20:53:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-08 20:53:03 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2026-05-08 20:53:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-08 20:53:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2026-05-08 20:53:03 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_pressure_plate": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-05-08 21:18:19 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_iron": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "labels:recipes/label": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_gold": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2026-05-08 21:18:16 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_netherite": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/letter_open": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_trapdoor": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_purple": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/misc/peaceful_mob_drops/bone_from_bonemeal": {
+    "criteria": {
+      "has_bone_meal": "2026-05-08 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2026-05-08 21:18:16 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/misc/contract_scroll": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "hexalia:recipes/transportation/cottonwood_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2026-05-08 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/saxaul_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_planks": {
+    "criteria": {
+      "has_palm_log": "2026-05-08 21:21:17 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_floorboard": {
+    "criteria": {
+      "has_palm_log": "2026-05-08 21:21:17 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_gold": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_brown": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2026-05-08 21:19:11 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_iron": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "immersive_furniture:misc/furniture_crafter": {
+    "criteria": {
+      "has_item": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/olive_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_table": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/beachparty/item_shelf_palm": {
+    "criteria": {
+      "has_item": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_light_blue": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/decorations/arborist_table": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/beachparty/sign_post_palm": {
+    "criteria": {
+      "has_item": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/poisonous_potato_crate": {
+    "criteria": {
+      "has_poisonous_potato": "2026-05-08 21:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2026-05-08 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/shoji": {
+    "criteria": {
+      "has_item": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_black": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_slab": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_hat_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_hat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/hooded_beach_chair": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2026-05-08 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/napkin": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/sugi_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/ghaf_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-05-08 21:21:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_orange": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/copper_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-05-08 21:18:13 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_3": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_blue": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2026-05-08 21:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_sign": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_lime": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/love_letter_open": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:cypress_wetlands": "2026-05-08 21:18:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/coconut_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/lattices": {
+    "criteria": {
+      "has_item": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/palo_verde_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_fence_gate": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/red_present": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/spider_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/spider_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-08 21:18:16 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_netherite": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/paper_lanterns": {
+    "criteria": {
+      "has_item": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cedar_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_diamond": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/cat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "camerapture:recipes/album": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2026-05-08 21:19:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-08 21:18:16 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_button": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2026-05-08 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/get_any_artifact": {
+    "criteria": {
+      "have_any_artifact": "2026-05-08 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/beach_chair": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_red": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_glass": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_magenta": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-08 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_fence": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_gray": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/get_all_artifacts": {
+    "criteria": {
+      "beachparty:swim_wings": "2026-05-08 21:18:18 +0000"
+    },
+    "done": false
+  },
+  "hearth_and_home:recipes/trims": {
+    "criteria": {
+      "has_item": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_boat": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_wood": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/paper_lantern": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "cozystudioscore:recipes/kiln/sand_to_glass": {
+    "criteria": {
+      "has_ingredient": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_cabinet": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_yellow": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2026-05-08 21:18:16 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_wood": {
+    "criteria": {
+      "has_palm_wood": "2026-05-08 21:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_pink": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/paper_block": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "hexalia:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_stairs": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2026-05-08 21:18:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_white": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/parquets": {
+    "criteria": {
+      "has_item": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2026-05-08 21:21:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2026-05-08 21:18:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_green": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/hoarder": {
+    "criteria": {
+      "beachparty:swim_wings": "2026-05-08 21:18:18 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-05-08 21:16:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:cypress_wetlands": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/nether_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_cyan": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sandy_soil": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2026-05-08 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_diamond": {
+    "criteria": {
+      "has_crafting_table": "2026-05-08 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/get_a_seashell": {
+    "criteria": {
+      "get_a_seashell": "2026-05-08 21:18:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/cardboard_box": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2026-05-08 21:18:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/sanded_wood": {
+    "criteria": {
+      "has_item": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_door": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_paper_light_gray": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_chair": {
+    "criteria": {
+      "has_palm_planks": "2026-05-08 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-05-08 21:18:46 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/table_sign": {
+    "criteria": {
+      "has_paper": "2026-05-08 21:18:15 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,17 @@
+{
+	id: "ed789aff-2f19-30db-be0a-bb564076e87e"
+	type: "player"
+	player_name: "elpibechorro6"
+	ranks: {
+		ed789aff-2f19-30db-be0a-bb564076e87e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "elpibechorro6"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

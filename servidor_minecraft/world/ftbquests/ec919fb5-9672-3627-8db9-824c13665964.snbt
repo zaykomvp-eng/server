@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "ec919fb5967236278db9824c13665964"
+	name: "ElUnicoSanti#ec919fb5"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		07DAFE773DDBAF28: 453
+	}
+	started: {
+		07DAFE773DDBAF28: 1778291562038L
+		0000000000000001: 1778291562038L
+		1793D9CDA5CB10C7: 1778291562038L
+		3E5E175DD327839E: 1778291562038L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

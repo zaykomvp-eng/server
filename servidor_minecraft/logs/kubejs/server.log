@@ -1,0 +1,49 @@
+[01:31:33] [INIT] KubeJS 2001.6.5-build.26; MC 2001 fabric
+[01:31:33] [INIT] Loaded plugins:
+[01:31:33] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[01:31:33] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[01:31:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[01:31:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[01:31:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[01:31:33] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[01:31:33] [INFO] Loaded script server_scripts:furnace_fix.js in 0.002 s
+[01:31:33] [INFO] Loaded script server_scripts:string_fix.js in 0.001 s
+[01:31:33] [INFO] Loaded script server_scripts:resin.js in 0.002 s
+[01:31:33] [INFO] Loaded script server_scripts:hops_based_beer.js in 0.002 s
+[01:31:33] [INFO] Loaded script server_scripts:cluster_recipes.js in 0.003 s
+[01:31:33] [INFO] Loaded script server_scripts:flour.js in 0.001 s
+[01:31:33] [INFO] Loaded script server_scripts:suppsquared_daub.js in 0.001 s
+[01:31:33] [INFO] Loaded script server_scripts:copper_nugget.js in 0.001 s
+[01:31:33] [INFO] Loaded script server_scripts:amethyst.js in 0.001 s
+[01:31:33] [INFO] Loaded script server_scripts:supplementaries_presents.js in 0.002 s
+[01:31:33] [INFO] Loaded 10/10 KubeJS server scripts in 0.052 s with 0 errors and 0 warnings
+[01:31:33] [INFO] Scripts loaded
+[01:31:33] [INFO] Initializing recipe event...
+[01:31:43] [INFO] Processing recipes...
+[01:31:43] [WARN] Failed to parse recipe 'deeperdarker:resonarium_hoe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[01:31:43] [WARN] Failed to parse recipe 'deeperdarker:resonarium_helmet_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[01:31:43] [WARN] Failed to parse recipe 'meadow:limestone_bricks_stairs[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[01:31:43] [WARN] Failed to parse recipe 'deeperdarker:resonarium_pickaxe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[01:31:43] [WARN] Failed to parse recipe 'obsidianequipmentrework:obsidian_ingot_from_nautilus_armor[minecraft:smelting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[01:31:43] [WARN] Failed to parse recipe 'deeperdarker:resonarium_shovel_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[01:31:43] [WARN] Failed to parse recipe 'deeperdarker:resonarium_boots_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[01:31:43] [WARN] Failed to parse recipe 'ironchests:netherite_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'base' can't be empty!
+[01:31:43] [WARN] Failed to parse recipe 'deeperdarker:resonarium_sword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[01:31:43] [WARN] Failed to parse recipe 'obsidianequipmentrework:obsidian_spear[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[01:31:43] [WARN] Failed to parse recipe 'ironchests:netherite_barrel[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'base' can't be empty!
+[01:31:44] [WARN] Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[01:31:44] [WARN] Failed to parse recipe 'deeperdarker:resonarium_leggings_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[01:31:44] [WARN] Failed to parse recipe 'ironchests:netherite_chest[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'base' can't be empty!
+[01:31:44] [WARN] Failed to parse recipe 'deeperdarker:resonarium_chestplate_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[01:31:44] [WARN] Failed to parse recipe 'deeperdarker:resonarium_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[01:31:44] [INFO] Found 23816 recipes in 344.3 ms
+[01:31:44] [INFO] Posted recipe events in 629.3 ms
+[01:31:44] [WARN] Error parsing recipe minecraft:furnace[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["   ","   ","   "],"key":{},"result":{"item":"minecraft:furnace"}}: Index 0 out of bounds for length 0
+[01:31:44] [WARN] Duplicate original recipe for id justenoughbreeding:breeding/minecraft/brown_mooshroom/minecraft/mooshroom!
+Recipe A: {type=justenoughbreeding:breeding, in=[], out='minecraft:air'}
+Recipe B: {type=justenoughbreeding:breeding, in=[], out='minecraft:air'}
+Using last one encountered.
+[01:31:44] [WARN] Error parsing recipe farmersdelight:kjs/2h5783ma837yjd8aoqbg45ddy[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"minecraft:dark_oak_log"}],"tool":{"type":"farmersdelight:tool","item":"hexalia:stone_dagger","damage":1},"result":[{"item":"hexalia:tree_resin","count":1}]}: Unknown item 'hexalia:stone_dagger'
+[01:31:44] [WARN] Error parsing recipe farmersdelight:kjs/9jlx5z7js4dotyfckfbtyknb4[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"hexalia:cottonwood_log"}],"tool":{"type":"farmersdelight:tool","item":"hexalia:stone_dagger","damage":1},"result":[{"item":"hexalia:tree_resin","count":1}]}: Unknown item 'hexalia:stone_dagger'
+[01:31:45] [INFO] Added 46 recipes, removed 11 recipes, modified 71 recipes, with 3 failed recipes in 1.127 s
+[01:32:00] [INFO] Server resource reload complete!

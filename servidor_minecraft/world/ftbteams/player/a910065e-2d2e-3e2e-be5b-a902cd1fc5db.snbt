@@ -1,0 +1,15 @@
+{
+	id: "a910065e-2d2e-3e2e-be5b-a902cd1fc5db"
+	type: "player"
+	player_name: "teovserbo213"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "teovserbo213"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

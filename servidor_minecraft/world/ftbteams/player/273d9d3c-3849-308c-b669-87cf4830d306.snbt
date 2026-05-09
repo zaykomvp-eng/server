@@ -1,0 +1,15 @@
+{
+	id: "273d9d3c-3849-308c-b669-87cf4830d306"
+	type: "player"
+	player_name: "NACHITOPRO898"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "NACHITOPRO898"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFCF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
